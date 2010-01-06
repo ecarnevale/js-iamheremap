@@ -1,0 +1,10 @@
+body {
+    font-family: Helvetica; 
+    font-size: 14px;
+    margin: 0;              /* Amount of negative space around the outside of the body */
+    padding: 0;             /* Amount of negative space around the inside of the body */
+}
+
+#map #iamhere_viewport {
+    height: 200px;
+}
